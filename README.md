@@ -1,4 +1,3 @@
-pb007
-=====
+Swing (PB007): Banking system
+=============================
 
-Software Engineering (PB007) project: Banking system
